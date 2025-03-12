@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bd9c2194.css",
+    "main.js": "/static/js/main.e932c063.js",
+    "static/media/logo_in.png": "/static/media/logo_in.a3ed00aeb41763d1a108.png",
+    "static/media/rectangle-161@2x.png": "/static/media/rectangle-161@2x.a1ed4db3f5bf903bc35b.png",
+    "static/media/girl3.png": "/static/media/girl3.783fa19f131d93eb5330.png",
+    "static/media/banner5.jpeg": "/static/media/banner5.e6be52d74ef1eee0ef7c.jpeg",
+    "static/media/iLogo.jpeg": "/static/media/iLogo.9bec6102ad534b84defe.jpeg",
+    "static/media/don.png": "/static/media/don.e27da5be65877c2a9a5d.png",
+    "static/media/banner2.jpg": "/static/media/banner2.34c277441bbbb21d3e8a.jpg",
+    "static/media/banner3.jpg": "/static/media/banner3.4477fa555e8264c9f0a4.jpg",
+    "static/media/banner4.jpg": "/static/media/banner4.a08ee39c47bf5b732cfc.jpg",
+    "static/media/2.jpeg": "/static/media/2.1f0e6da43cdc2dde266e.jpeg",
+    "static/media/4.jpeg": "/static/media/4.f78553c30a9842c0494c.jpeg",
+    "static/media/1.jpeg": "/static/media/1.23f12a405c5910a23815.jpeg",
+    "static/media/3.jpeg": "/static/media/3.3d6d6a48bbb8115bfea6.jpeg",
+    "index.html": "/index.html",
+    "main.bd9c2194.css.map": "/static/css/main.bd9c2194.css.map",
+    "main.e932c063.js.map": "/static/js/main.e932c063.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd9c2194.css",
+    "static/js/main.e932c063.js"
+  ]
+}
