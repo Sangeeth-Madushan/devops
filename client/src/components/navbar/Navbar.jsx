@@ -71,7 +71,7 @@ const Navbar = () => {
         <div className="hidden space-x-4 lg:flex">
           <Link
             to="/"
-            className="p-4 font-bold text-red-500 hover:scale-105 hover:text-teal-600"
+            className="p-4 font-bold text-black hover:scale-105 hover:text-teal-600"
           >
             Home
           </Link>
