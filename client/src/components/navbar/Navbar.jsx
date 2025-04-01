@@ -25,7 +25,7 @@ const Navbar = () => {
     <nav className="fixed top-0 left-0 right-0 z-10 w-full p-2 bg-slate-50 h-[96px] shadow-md">
       <div className="container flex items-center justify-between mx-auto">
         {/* Logo */}
-        <div className="text-2xl font-semibold text-black">
+        <div className="text-2xl font-semibold text-white">
           <Link to="/">
             <img src={logo} alt="logo" className="h-[85px] w-auto" />
           </Link>
@@ -46,7 +46,7 @@ const Navbar = () => {
           <div className="absolute top-[90px] left-0 right-0 bg-slate-50 lg:hidden shadow-lg">
             <Link
               to="/"
-              className="block p-4 font-bold text-black hover:bg-teal-100 hover:text-teal-600"
+              className="block p-4 font-bold text-yellow-500 hover:bg-teal-100 hover:text-teal-600"
             >
               Home
             </Link>
